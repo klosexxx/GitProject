@@ -1,4 +1,6 @@
 body{
-  font-size: 350px;
-  color: blue;
+  font-size: medium;
+  color: seagreen;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
